@@ -13,8 +13,8 @@ pkg install git
 
 2. **Клонирование репозитория:**
 ```bash
-git clone https://github.com/ваш_репозиторий.git
-cd my_bot
+git clone 
+cd CUB
 ```
 
 3. **Запуск автоматической установки:**
