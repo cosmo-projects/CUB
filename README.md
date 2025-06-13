@@ -13,7 +13,7 @@ pkg install git
 
 2. **Клонирование репозитория:**
 ```bash
-git clone 
+git clone https://github.com/cosmo-projects/CUB
 cd CUB
 ```
 
